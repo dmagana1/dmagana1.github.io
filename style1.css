@@ -101,3 +101,7 @@ input[type=submit]:hover {
   background-color: #bed0d1;
   padding: 20px;
 }
+
+.apps {
+  text-align: right;
+}
